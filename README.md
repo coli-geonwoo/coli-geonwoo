@@ -35,6 +35,7 @@
 - 2020 경기도 주민자치 정책 공모전(장려)
 - [중앙대학교 chatGPT AI 온라인 활용 콘텐츠 공모전(장려)](https://www.youtube.com/watch?v=QKGcYyFvjME)
 <br>
+- [2024 중앙대 프로그래밍 경진대회(2위)](https://hellobrocolli.tistory.com/181)
 
 ### 🗣️ Soft Skill
 - [토론 블로그, 이웃집 토토론 운영 (24-11월 기준 누적 조회수: 197만)](https://blog.naver.com/kkwoo001021)
