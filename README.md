@@ -8,6 +8,7 @@
 
 
 ### education
+- IT 연합 개발 동아리 Mash-Up Spring 15기(25.02~)
 - [우아한 테크코스 6기 BE(24.02-24.11)](https://github.com/coli-geonwoo/woowacourse)
 - 데이터 분석 학회 DArt-B 1기(23.02-23.11)
 - 중앙대학교 경영학/소프트웨어학(19.02-)
