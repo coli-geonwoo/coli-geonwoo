@@ -1,5 +1,5 @@
 ### About me
-- [이력서](https://drive.google.com/file/d/1I239hASHH8Al5A_tajuh3yNCTvIAwqpy/view?usp=sharing)
+- [이력서](https://drive.google.com/file/d/1LKkbxZSYBI7QAroicW-ZC2CdLAWDlA2G/view?usp=sharing)
   
 
 ### Contact
