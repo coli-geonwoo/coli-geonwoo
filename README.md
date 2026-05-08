@@ -8,6 +8,7 @@
 
 
 ### Education
+- AI/SW Maestro(소마) 17기(26.03-진행 중)
 - HMG 소프티어부트캠프 7기(26.01-26.02)
 - IT 연합 개발 동아리 Mash-Up Spring 15기(25.02-25.11)
 - [우아한 테크코스 6기 BE(24.02-24.11)](https://github.com/coli-geonwoo/woowacourse)
